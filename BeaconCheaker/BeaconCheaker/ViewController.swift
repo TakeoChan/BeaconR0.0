@@ -5,6 +5,8 @@
 //  Created by 永山 豪雄 on 2014/12/11.
 //  Copyright (c) 2014年 supertakeocreaters. All rights reserved.
 //
+// GitHubtest20141224
+
 
 import UIKit
 
